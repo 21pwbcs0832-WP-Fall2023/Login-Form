@@ -1,0 +1,2 @@
+.main-div{background-color:#f9f9f9;border-radius:10px;box-shadow:0 0 10px #0000001a;margin:70px auto;max-width:600px;padding:20px}form{display:flex;flex-direction:column}input[type=email],input[type=number],input[type=text]{border:1px solid #ccc;border-radius:5px;font-size:16px;margin-bottom:15px;padding:10px}button{background-color:#007bff;border:none;border-radius:5px;color:#fff;cursor:pointer;font-size:16px;padding:10px 20px}button:hover{background-color:#0056b3}@media screen and (max-width:768px){.main-div{max-width:100%}}
+/*# sourceMappingURL=main.7d57e526.css.map*/
